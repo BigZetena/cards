@@ -1,7 +1,7 @@
-@import url(config.css);
-@import url(header.css);
-@import url(hero.css);
-@import url(reproduction.css);
-@import url(preview.css);
-@import url(team.css);
-@import url(footer.css);
+@import "./config.css";
+@import "./header.css";
+@import "./hero.css";
+@import "./reproduction.css";
+@import "./preview.css";
+@import "./team.css";
+@import "./footer.css";
