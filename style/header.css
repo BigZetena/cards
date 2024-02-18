@@ -9,10 +9,7 @@ header {
   justify-content: space-between;
   height: 100px;
 }
-.header__logo {
-  display: flex;
-  align-items: center;
-}
+
 .header__ink {
   color: #598d66;
 }
